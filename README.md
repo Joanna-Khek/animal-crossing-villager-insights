@@ -1,6 +1,13 @@
 # Animal Crossing Villager Insights
 The web application is hosted on Rshiny and can be viewed [here](https://joanna-khek.shinyapps.io/Animal_Crossing_Villager_Insights/?_ga=2.254270092.549430059.1589619887-1260446202.1570436635)! 
+
+
 ## Project Description
+Animal Crossing is a video game developed and published by Nintendo.
+
+![image](https://user-images.githubusercontent.com/53141849/206434709-a5ad3ebe-74a3-4d41-8a7b-f05df350598b.png)
+
+
 I have been enjoying Animal Crossing New Horizon and stumbled upon a villager popularity list. I wondered about the factors contributing to the popularity of the different villagers and decided to do up a Shiny dashboard to explore. The project involves web scraping from different sources.
 
 ## Project Details
